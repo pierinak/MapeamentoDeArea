@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 
 # Carregue a imagem
-image1 = cv2.imread('antes.tif')
-image2 = cv2.imread('depois.tif')
+image1 = cv2.imread('antes.jpg')
+image2 = cv2.imread('depois.jpg')
 
 
 
